@@ -27,7 +27,7 @@ contact = """
 print(termcolor.colored(lite, color="green"))
 print(termcolor.colored(contact, color="red"))
 
-print(termcolor.colored("__"*30, color="blue"))
+print(termcolor.colored("__"*25, color="blue"))
 print(" ")
 
 try:
