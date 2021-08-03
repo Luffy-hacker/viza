@@ -17,5 +17,10 @@ pip3 install requests
 
 pip3 install bs4
 
+cd viza
+
+chmod +x *
+
+python3 viza py
 
 #Have a good Script🥰
